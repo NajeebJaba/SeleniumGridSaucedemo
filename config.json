@@ -1,0 +1,10 @@
+{
+  "url": "www",
+  "user_name": "najeeb",
+  "hub_url": "http://localhost:4444/wd/hub",
+  "grid": false,
+  "serial": false,
+  "browser": "chrome",
+  "platform": "windows",
+  "browser_types": ["chrome","firefox","edge"]
+}
